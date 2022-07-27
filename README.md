@@ -1,7 +1,6 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif)
 <h1 align="center">Hi 👋, I'm Taylor Von Littleton</h1>
 <h3 align="center">An eager student looking to start a career</h3>
-
+<img align="right alt="Coding" Width="400" src="https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif">
 - 🔭 I’m currently working on **Github Profile Presentation**
 
 - 🌱 I’m currently learning **everything I can.**
