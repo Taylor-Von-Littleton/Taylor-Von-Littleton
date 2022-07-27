@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/106122834/181389015-117acadd-8251-4c54-9189-e573f9b5718b.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/106122834/181389952-b37d23b7-cfe8-4ceb-866c-c3dcb90a2e09.gif)
 <h1 align="center">Hi 👋, I'm Taylor Von Littleton</h1>
 <h3 align="center">An eager student looking to start a career</h3>
 
