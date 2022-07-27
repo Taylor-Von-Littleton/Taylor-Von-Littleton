@@ -1,4 +1,5 @@
-![Masterheader]<iframe src="https://giphy.com/embed/FoVzfcqCDSb7zCynOp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">via GIPHY</a></p>
+[![Masterhead]![giphy](https://user-images.githubusercontent.com/106122834/181386187-b0c6c016-8a7a-4f61-9a4d-e088c1ac2ee7.gif)]
+
 <h1 align="center">Hi 👋, I'm Taylor Von Littleton</h1>
 <h3 align="center">An eager student looking to start a career</h3>
 <img align="right alt="Coding" Width="400" src="https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif">
