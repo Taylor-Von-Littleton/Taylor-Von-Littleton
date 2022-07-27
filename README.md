@@ -1,8 +1,8 @@
-[![Masterhead]![giphy](https://user-images.githubusercontent.com/106122834/181386187-b0c6c016-8a7a-4f61-9a4d-e088c1ac2ee7.gif)]
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106122834/181386512-41117bb8-76a4-4d4a-8e8f-d69d5d616ab1.gif)
 <h1 align="center">Hi 👋, I'm Taylor Von Littleton</h1>
 <h3 align="center">An eager student looking to start a career</h3>
-<img align="right alt="Coding" Width="400" src="https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif">
+<img align="right alt="Coding" Width="375" src="https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif">
+
 - 🔭 I’m currently working on **Github Profile Presentation**
 
 - 🌱 I’m currently learning **everything I can.**
