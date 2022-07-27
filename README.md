@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Tlitt61@wgu.edu**
 
-- ⚡ Fun fact **I think I could be one of the smartest people on the planet.**
+- ⚡ Fun fact **I could be the smartest person on the planet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
