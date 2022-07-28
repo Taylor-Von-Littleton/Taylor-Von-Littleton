@@ -1,6 +1,6 @@
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/106122834/181389952-b37d23b7-cfe8-4ceb-866c-c3dcb90a2e09.gif)
 <h1 align="center">Hi 👋, I'm Taylor Von Littleton</h1>
-<h3 align="center">An eager student looking to start a career</h3>
+<h3 align="center">A Father, Student, and Aspiring Programmer with practical knowledge in Python/SQL/Linux/C#/Cisco-CLI and more. </h3>
 
 <img align="right" alt="Coding" Width="400" src="https://user-images.githubusercontent.com/106122834/181384342-4d6e4a10-b307-4f21-94cb-521222b97dc7.gif">
 
