@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-von-littleton&show_icons=true&locale=en" alt="taylor-von-littleton" /></p>
 
 
-<video src="https://user-images.githubusercontent.com/106122834/181393605-5fad6d20-c977-4fe8-b4f5-52e525cc207e.mp4" width=180 autoplay=True/>
+<video autoplay src="https://user-images.githubusercontent.com/106122834/181393605-5fad6d20-c977-4fe8-b4f5-52e525cc207e.mp4" width=180 autoplay=True/>
 
