@@ -30,10 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-von-littleton&show_icons=true&locale=en" alt="taylor-von-littleton" /></p>
 
-<video autoplay playsinline>
-  <source src="https://user-images.githubusercontent.com/106122834/181393605-5fad6d20-c977-4fe8-b4f5-52e525cc207e.mp4" type="video/mp4">
-</video>
-
-<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
-  <source src="https://user-images.githubusercontent.com/106122834/181393605-5fad6d20-c977-4fe8-b4f5-52e525cc207e.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/106122834/181393605-5fad6d20-c977-4fe8-b4f5-52e525cc207e.mp4
