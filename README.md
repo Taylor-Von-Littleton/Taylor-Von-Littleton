@@ -1,4 +1,3 @@
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/106122834/181389952-b37d23b7-cfe8-4ceb-866c-c3dcb90a2e09.gif)
 <h1 align="center">Hi 👋, I'm Taylor Littleton</h1>
 <h3 align="center">A Father, Student, and Aspiring Programmer With Practical Knowledge in Python/SQL/Linux/C#/Cisco-CLI and More. </h3>
 
